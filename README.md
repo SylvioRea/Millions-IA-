@@ -1,20 +1,14 @@
 
-# EuroMillions IA (Streamlit App + Mobile Ready)
+# EuroMillions IA - Streamlit Web App (Version fonctionnelle)
 
-Ce projet est une application web intelligente pour générer des combinaisons optimisées EuroMillions.
+- Menu de navigation latéral activé
+- 4 pages connectées
+- Icônes PWA + Manifest
+- Prête à être hébergée sur Streamlit Cloud
 
-## Fonctionnalités :
-- Générateur IA avec prédiction (LSTM)
-- Historique + export PDF/Excel
-- Comparateur de résultats
-- Statistiques des numéros + étoiles
-- Icône + PWA installable sur iPhone (via Safari)
+1. Uploadez le contenu sur un repo GitHub
+2. Allez sur https://streamlit.io/cloud
+3. Connectez votre repo, choisissez Home.py
+4. Cliquez sur "Deploy"
 
-## Déploiement :
-1. Uploadez ce projet sur GitHub
-2. Rendez-vous sur https://streamlit.io/cloud
-3. Connectez votre compte GitHub
-4. Choisissez le repo > Fichier de démarrage : Home.py
-5. Cliquez sur "Deploy"
-
-Et c’est en ligne !
+Utilisable sur ordi et installable comme App iPhone via Safari.
